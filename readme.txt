@@ -13,4 +13,8 @@ git status;
 git diff HEAD -- readme.txt
 
 git add file.txt if modified every time
-  
+rm 'file.txt'; git checkout -- file.txt(recover from staged); git rm file.txt(delete from staged);
+
+connect remote repository
+git remote add origin git@github.com:zhlovesjl/zhgit.git
+ 
