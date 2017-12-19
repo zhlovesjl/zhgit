@@ -17,4 +17,6 @@ rm 'file.txt'; git checkout -- file.txt(recover from staged); git rm file.txt(de
 
 connect remote repository
 git remote add origin git@github.com:zhlovesjl/zhgit.git
+
+review
  
