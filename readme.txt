@@ -19,5 +19,5 @@ connect remote repository
 git remote add origin git@github.com:zhlovesjl/zhgit.git
 
 review
-creating a new branch is quick.
+creating a new branch is quick & simple.
  
